@@ -5,6 +5,6 @@ authors:
   - family-names: "Kuntal,Giradkar,Chaudhary,Lad"
     given-names: "Aryan,Utkarsh,Mudit,Amit"
 version: "1.0.0-pre-release"
-doi: "[![DOI](https://zenodo.org/badge/1424625105.svg)](https://doi.org/10.5281/zenodo.23456644)"
+doi: "https://doi.org/10.5281/zenodo.23456644"
 date-released: "2026-10-18"
 repository-code: "https://github.com/Aryan-K1509/Observable-Level Modular Simulation Framework for Finite-Key Security Analysis of COW QKD"
