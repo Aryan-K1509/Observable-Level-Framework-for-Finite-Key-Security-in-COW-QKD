@@ -1,6 +1,6 @@
 cff-version: 1.0.0
 message: "If you use this software, please cite it as below."
-title: "Observable-Level Modular Simulation Framework for Finite-Key Security Analysis of Coherent-One-Way Quantum Key Distribution"
+title: "Observable-Level Modular Framework for Finite-Key Security Analysis of Coherent-One-Way Quantum Key Distribution"
 authors:
   - family-names: "Kuntal,Giradkar,Chaudhary,Lad"
     given-names: "Aryan,Utkarsh,Mudit,Amit"
