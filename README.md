@@ -1,4 +1,4 @@
-# Observable-level COW-QKD Simulation
+# Observable-level COW-QKD Framework
 
 A modular framework for finite-key Coherent-One-Way (COW) quantum key
 distribution.
