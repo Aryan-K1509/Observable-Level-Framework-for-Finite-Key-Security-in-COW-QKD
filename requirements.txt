@@ -1,4 +1,8 @@
-strawberryfields
-scipy
-numpy
-matplotlib
+Package                 Version 
+
+python                  3.14.2
+strawberryfields        0.23.0
+pandas                  3.0.6
+pip                     22.3.1
+setuptools              65.5.0
+matplotlib              3.11.2
